@@ -22,3 +22,6 @@
 - 了解 Git 代码托管工具
 
 - 了解Node.js ，使用过Express和MongoDB开发过小型项目
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tammy-zting&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
