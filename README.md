@@ -31,5 +31,3 @@
 ![Node](https://img.shields.io/badge/-NodeJS-%23F05032?style=for-the-badge&logo=Node.js&logoColor=%23ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=for-the-badge&logo=visual-studio-code)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tammy-zting&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
