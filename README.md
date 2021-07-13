@@ -24,7 +24,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=for-the-badge&logo=react)
 ![Ant Design](https://ant.design/docs/react/getting-started-cn)
-![PrimeReact](https://www.primefaces.org/primereact/badge/Ant%20Design-1232-9cf)
+![PrimeReact](https://img.shields.io/badge/Ant%20Design-1232-9cf)
 ![Bootstrap](https://getbootstrap.com/)
 ![Echarts](https://echarts.apache.org/zh/index.html)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-%23031d30?style=for-the-badge&logo=typescript)
